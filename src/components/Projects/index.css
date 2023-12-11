@@ -1,0 +1,49 @@
+.project-main-bg {
+}
+.nav {
+  background-color: #e6e9ec;
+  padding: 30px;
+}
+.nav-img {
+  height: 100px;
+  width: 200px;
+  margin-left: 20px;
+}
+.content-cont {
+  display: flex;
+  flex-direction: column;
+  min-height: 80vh;
+  padding: 30px;
+}
+.cat-cont {
+  width: 500px;
+  background-color: #ffffff;
+  padding: 10px;
+  border: 2px solid #e2e8f0;
+  border-radius: 5px;
+}
+.loader {
+  display: flex;
+  flex-direction: column;
+  min-height: 80vh;
+  align-items: center;
+  justify-content: center;
+}
+.failure-view {
+  height: 300px;
+  width: 400px;
+}
+.retry-btn {
+  color: #ffffff;
+  background-color: #328af2;
+  padding: 7px;
+  border: none;
+  border-radius: 7px;
+}
+.succes-ul {
+  padding: 0px;
+  display: flex;
+
+  flex-wrap: wrap;
+  list-style-type: none;
+}
